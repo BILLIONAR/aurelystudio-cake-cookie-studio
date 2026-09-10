@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "AurelyStudio \u00b7 Cake & Cookie Studio",
-  "short_name": "Cake Studio",
+  "name": "AurelyStudio Home Bakery Business Studio",
+  "short_name": "Home Bakery",
   "description": "Bakery orders, recipes, inventory and reports.",
   "start_url": "./",
   "scope": "./",
